@@ -1,0 +1,402 @@
+[
+  {
+    "code": "INC-30000",
+    "type": "flood",
+    "severity": 2,
+    "zone": "Dockside",
+    "lat": 19.09411,
+    "lon": 72.82639,
+    "people_affected": 70,
+    "verified": false
+  },
+  {
+    "code": "INC-30001",
+    "type": "gas",
+    "severity": 0,
+    "zone": "Civic Core",
+    "lat": 19.0205,
+    "lon": 72.86974,
+    "people_affected": 10,
+    "verified": false
+  },
+  {
+    "code": "INC-30002",
+    "type": "collapse",
+    "severity": 3,
+    "zone": "North Ridge",
+    "lat": 19.03086,
+    "lon": 72.84449,
+    "people_affected": 82,
+    "verified": true
+  },
+  {
+    "code": "INC-30003",
+    "type": "gas",
+    "severity": 0,
+    "zone": "North Ridge",
+    "lat": 19.0636,
+    "lon": 72.93485,
+    "people_affected": 7,
+    "verified": true
+  },
+  {
+    "code": "INC-30004",
+    "type": "fire",
+    "severity": 1,
+    "zone": "Dockside",
+    "lat": 19.03331,
+    "lon": 72.83184,
+    "people_affected": 41,
+    "verified": true
+  },
+  {
+    "code": "INC-30005",
+    "type": "collapse",
+    "severity": 1,
+    "zone": "North Ridge",
+    "lat": 19.08454,
+    "lon": 72.84024,
+    "people_affected": 14,
+    "verified": true
+  },
+  {
+    "code": "INC-30006",
+    "type": "gas",
+    "severity": 0,
+    "zone": "Old Harbour",
+    "lat": 19.09028,
+    "lon": 72.87727,
+    "people_affected": 70,
+    "verified": true
+  },
+  {
+    "code": "INC-30007",
+    "type": "medical",
+    "severity": 2,
+    "zone": "North Ridge",
+    "lat": 19.12681,
+    "lon": 72.86109,
+    "people_affected": 33,
+    "verified": true
+  },
+  {
+    "code": "INC-30008",
+    "type": "collapse",
+    "severity": 1,
+    "zone": "North Ridge",
+    "lat": 19.05203,
+    "lon": 72.87711,
+    "people_affected": 45,
+    "verified": true
+  },
+  {
+    "code": "INC-30009",
+    "type": "gas",
+    "severity": 2,
+    "zone": "Old Harbour",
+    "lat": 19.03017,
+    "lon": 72.86787,
+    "people_affected": 98,
+    "verified": true
+  },
+  {
+    "code": "INC-30010",
+    "type": "medical",
+    "severity": 3,
+    "zone": "Old Harbour",
+    "lat": 19.13144,
+    "lon": 72.82701,
+    "people_affected": 73,
+    "verified": true
+  },
+  {
+    "code": "INC-30011",
+    "type": "fire",
+    "severity": 2,
+    "zone": "Marsh End",
+    "lat": 19.08732,
+    "lon": 72.88729,
+    "people_affected": 60,
+    "verified": false
+  },
+  {
+    "code": "INC-30012",
+    "type": "fire",
+    "severity": 0,
+    "zone": "Dockside",
+    "lat": 19.09965,
+    "lon": 72.8255,
+    "people_affected": 95,
+    "verified": true
+  },
+  {
+    "code": "INC-30013",
+    "type": "fire",
+    "severity": 3,
+    "zone": "Dockside",
+    "lat": 19.12244,
+    "lon": 72.85934,
+    "people_affected": 61,
+    "verified": true
+  },
+  {
+    "code": "INC-30014",
+    "type": "medical",
+    "severity": 0,
+    "zone": "Old Harbour",
+    "lat": 19.04218,
+    "lon": 72.85219,
+    "people_affected": 96,
+    "verified": false
+  },
+  {
+    "code": "INC-30015",
+    "type": "power",
+    "severity": 3,
+    "zone": "Dockside",
+    "lat": 19.02567,
+    "lon": 72.8716,
+    "people_affected": 72,
+    "verified": false
+  },
+  {
+    "code": "INC-30016",
+    "type": "power",
+    "severity": 1,
+    "zone": "Dockside",
+    "lat": 19.11968,
+    "lon": 72.85111,
+    "people_affected": 55,
+    "verified": true
+  },
+  {
+    "code": "INC-30017",
+    "type": "flood",
+    "severity": 3,
+    "zone": "Civic Core",
+    "lat": 19.02596,
+    "lon": 72.83586,
+    "people_affected": 86,
+    "verified": false
+  },
+  {
+    "code": "INC-30018",
+    "type": "power",
+    "severity": 3,
+    "zone": "North Ridge",
+    "lat": 19.03788,
+    "lon": 72.85153,
+    "people_affected": 20,
+    "verified": true
+  },
+  {
+    "code": "INC-30019",
+    "type": "gas",
+    "severity": 2,
+    "zone": "North Ridge",
+    "lat": 19.05423,
+    "lon": 72.83276,
+    "people_affected": 111,
+    "verified": true
+  },
+  {
+    "code": "INC-30020",
+    "type": "medical",
+    "severity": 0,
+    "zone": "North Ridge",
+    "lat": 19.06309,
+    "lon": 72.86558,
+    "people_affected": 15,
+    "verified": true
+  },
+  {
+    "code": "INC-30021",
+    "type": "collapse",
+    "severity": 3,
+    "zone": "Civic Core",
+    "lat": 19.02408,
+    "lon": 72.84275,
+    "people_affected": 22,
+    "verified": false
+  },
+  {
+    "code": "INC-30022",
+    "type": "collapse",
+    "severity": 0,
+    "zone": "Old Harbour",
+    "lat": 19.08401,
+    "lon": 72.88209,
+    "people_affected": 48,
+    "verified": true
+  },
+  {
+    "code": "INC-30023",
+    "type": "power",
+    "severity": 0,
+    "zone": "Civic Core",
+    "lat": 19.08969,
+    "lon": 72.83553,
+    "people_affected": 34,
+    "verified": true
+  },
+  {
+    "code": "INC-30024",
+    "type": "medical",
+    "severity": 2,
+    "zone": "Old Harbour",
+    "lat": 19.02984,
+    "lon": 72.87627,
+    "people_affected": 61,
+    "verified": true
+  },
+  {
+    "code": "INC-30025",
+    "type": "collapse",
+    "severity": 2,
+    "zone": "Civic Core",
+    "lat": 19.02826,
+    "lon": 72.85882,
+    "people_affected": 35,
+    "verified": true
+  },
+  {
+    "code": "INC-30026",
+    "type": "gas",
+    "severity": 1,
+    "zone": "Old Harbour",
+    "lat": 19.04063,
+    "lon": 72.93194,
+    "people_affected": 48,
+    "verified": false
+  },
+  {
+    "code": "INC-30027",
+    "type": "power",
+    "severity": 0,
+    "zone": "North Ridge",
+    "lat": 19.05177,
+    "lon": 72.89485,
+    "people_affected": 13,
+    "verified": true
+  },
+  {
+    "code": "INC-30028",
+    "type": "gas",
+    "severity": 2,
+    "zone": "Marsh End",
+    "lat": 19.12499,
+    "lon": 72.86038,
+    "people_affected": 30,
+    "verified": true
+  },
+  {
+    "code": "INC-30029",
+    "type": "trapped",
+    "severity": 2,
+    "zone": "Civic Core",
+    "lat": 19.08959,
+    "lon": 72.91231,
+    "people_affected": 99,
+    "verified": true
+  },
+  {
+    "code": "INC-30030",
+    "type": "power",
+    "severity": 1,
+    "zone": "Dockside",
+    "lat": 19.10478,
+    "lon": 72.84491,
+    "people_affected": 68,
+    "verified": true
+  },
+  {
+    "code": "INC-30031",
+    "type": "collapse",
+    "severity": 0,
+    "zone": "Marsh End",
+    "lat": 19.07267,
+    "lon": 72.84094,
+    "people_affected": 79,
+    "verified": true
+  },
+  {
+    "code": "INC-30032",
+    "type": "power",
+    "severity": 3,
+    "zone": "Marsh End",
+    "lat": 19.1306,
+    "lon": 72.86146,
+    "people_affected": 30,
+    "verified": false
+  },
+  {
+    "code": "INC-30033",
+    "type": "flood",
+    "severity": 3,
+    "zone": "Marsh End",
+    "lat": 19.04052,
+    "lon": 72.89259,
+    "people_affected": 117,
+    "verified": true
+  },
+  {
+    "code": "INC-30034",
+    "type": "medical",
+    "severity": 0,
+    "zone": "Marsh End",
+    "lat": 19.11196,
+    "lon": 72.82787,
+    "people_affected": 86,
+    "verified": false
+  },
+  {
+    "code": "INC-30035",
+    "type": "power",
+    "severity": 3,
+    "zone": "Civic Core",
+    "lat": 19.07336,
+    "lon": 72.83912,
+    "people_affected": 103,
+    "verified": true
+  },
+  {
+    "code": "INC-30036",
+    "type": "power",
+    "severity": 0,
+    "zone": "Dockside",
+    "lat": 19.07158,
+    "lon": 72.9069,
+    "people_affected": 12,
+    "verified": true
+  },
+  {
+    "code": "INC-30037",
+    "type": "flood",
+    "severity": 1,
+    "zone": "Old Harbour",
+    "lat": 19.03414,
+    "lon": 72.92628,
+    "people_affected": 105,
+    "verified": true
+  },
+  {
+    "code": "INC-30038",
+    "type": "trapped",
+    "severity": 3,
+    "zone": "Marsh End",
+    "lat": 19.03471,
+    "lon": 72.88349,
+    "people_affected": 4,
+    "verified": false
+  },
+  {
+    "code": "INC-30039",
+    "type": "gas",
+    "severity": 0,
+    "zone": "Civic Core",
+    "lat": 19.06806,
+    "lon": 72.92231,
+    "people_affected": 107,
+    "verified": true
+  }
+]

@@ -1,0 +1,51 @@
+call_id,language,transcript,urgency_hint,lat,lon
+CALL-9000,es-ES,gas smell whole block needs evacuation,high,19.12673,72.92483
+CALL-9001,bn-IN,power lines down sparking road,critical,19.03246,72.83229
+CALL-9002,mr-IN,smoke everywhere cannot find exit third floor,low,19.09654,72.8691
+CALL-9003,bn-IN,child trapped under debris near market,high,19.11007,72.92534
+CALL-9004,bn-IN,child trapped under debris near market,high,19.03316,72.92364
+CALL-9005,mr-IN,water rising ground floor submerged need boats,low,19.06379,72.87617
+CALL-9006,es-ES,power lines down sparking road,moderate,19.03538,72.86948
+CALL-9007,te-IN,road blocked ambulance cannot reach heavy bleeding,high,19.06655,72.86049
+CALL-9008,hi-IN,child trapped under debris near market,high,19.01834,72.88419
+CALL-9009,mr-IN,child trapped under debris near market,low,19.06212,72.87979
+CALL-9010,ta-IN,gas smell whole block needs evacuation,low,19.02954,72.92793
+CALL-9011,bn-IN,building collapsed people trapped inside,low,19.04787,72.82245
+CALL-9012,ar-SA,water rising ground floor submerged need boats,high,19.10669,72.91607
+CALL-9013,ar-SA,child trapped under debris near market,high,19.06471,72.88209
+CALL-9014,te-IN,gas smell whole block needs evacuation,critical,19.10005,72.82844
+CALL-9015,hi-IN,power lines down sparking road,moderate,19.06704,72.82639
+CALL-9016,hi-IN,child trapped under debris near market,low,19.1122,72.82775
+CALL-9017,ar-SA,water rising ground floor submerged need boats,low,19.04773,72.8323
+CALL-9018,hi-IN,smoke everywhere cannot find exit third floor,critical,19.1272,72.84984
+CALL-9019,bn-IN,building collapsed people trapped inside,moderate,19.12858,72.93401
+CALL-9020,ta-IN,building collapsed people trapped inside,moderate,19.04021,72.85514
+CALL-9021,ta-IN,gas smell whole block needs evacuation,moderate,19.0508,72.87771
+CALL-9022,bn-IN,smoke everywhere cannot find exit third floor,high,19.11244,72.93704
+CALL-9023,hi-IN,building collapsed people trapped inside,low,19.10397,72.88383
+CALL-9024,bn-IN,gas smell whole block needs evacuation,critical,19.04548,72.87135
+CALL-9025,es-ES,power lines down sparking road,critical,19.09478,72.88321
+CALL-9026,mr-IN,gas smell whole block needs evacuation,high,19.09853,72.93559
+CALL-9027,ta-IN,water rising ground floor submerged need boats,moderate,19.06456,72.85941
+CALL-9028,hi-IN,power lines down sparking road,moderate,19.01771,72.89275
+CALL-9029,ta-IN,road blocked ambulance cannot reach heavy bleeding,moderate,19.02265,72.89753
+CALL-9030,mr-IN,power lines down sparking road,high,19.08785,72.90082
+CALL-9031,hi-IN,road blocked ambulance cannot reach heavy bleeding,moderate,19.0349,72.8712
+CALL-9032,ta-IN,smoke everywhere cannot find exit third floor,high,19.13271,72.88335
+CALL-9033,bn-IN,building collapsed people trapped inside,high,19.04214,72.83965
+CALL-9034,ta-IN,road blocked ambulance cannot reach heavy bleeding,low,19.07296,72.87803
+CALL-9035,bn-IN,water rising ground floor submerged need boats,low,19.0269,72.91575
+CALL-9036,bn-IN,road blocked ambulance cannot reach heavy bleeding,low,19.06328,72.85366
+CALL-9037,es-ES,water rising ground floor submerged need boats,low,19.08627,72.8812
+CALL-9038,ar-SA,water rising ground floor submerged need boats,critical,19.10772,72.90418
+CALL-9039,mr-IN,water rising ground floor submerged need boats,high,19.1029,72.89489
+CALL-9040,hi-IN,power lines down sparking road,critical,19.10406,72.91517
+CALL-9041,bn-IN,gas smell whole block needs evacuation,low,19.11517,72.88779
+CALL-9042,es-ES,child trapped under debris near market,moderate,19.02621,72.82272
+CALL-9043,es-ES,smoke everywhere cannot find exit third floor,low,19.06119,72.87187
+CALL-9044,hi-IN,child trapped under debris near market,low,19.09115,72.89938
+CALL-9045,mr-IN,smoke everywhere cannot find exit third floor,low,19.07083,72.82611
+CALL-9046,te-IN,gas smell whole block needs evacuation,low,19.09512,72.82563
+CALL-9047,es-ES,road blocked ambulance cannot reach heavy bleeding,high,19.11311,72.91924
+CALL-9048,bn-IN,child trapped under debris near market,moderate,19.04369,72.89569
+CALL-9049,mr-IN,road blocked ambulance cannot reach heavy bleeding,critical,19.02521,72.92696
