@@ -1,4 +1,4 @@
-# NEXUS AI — Autonomous Disaster Response Intelligence Platform
+# Aegis AI — Autonomous Disaster Response Intelligence Platform
 
 > A command platform where **eight autonomous AI agents** turn raw disaster
 > signals — satellite tiles, drone feeds, emergency calls, social posts — into
